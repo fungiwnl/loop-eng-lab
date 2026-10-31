@@ -1,0 +1,8 @@
+[project]
+name = "loop-eng-lab"
+version = "0.1.0"
+description = "Learning the mechanics of an LLM prompt loop"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=2.3.0",
+]
